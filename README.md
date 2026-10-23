@@ -30,8 +30,7 @@ No additional Python packages are required.
 2. Open the integrated terminal.
 3. Run the following command:
 
-   python main.py
-
+  StudentResultProcessor.py
 ## CSV Data
 Results are stored in results.csv with these columns:
 
